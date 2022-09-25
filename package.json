@@ -1,0 +1,22 @@
+{
+  "name": "is-nzr",
+  "version": "1.0.0",
+  "description": "Is the string Nirzhor?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabbi-Reza/is-nzr-npm-package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "S.M. Rabbi Reza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabbi-Reza/is-nzr-npm-package/issues"
+  },
+  "homepage": "https://github.com/Rabbi-Reza/is-nzr-npm-package#readme"
+}
